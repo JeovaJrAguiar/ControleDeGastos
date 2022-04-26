@@ -5,10 +5,10 @@ Projeto em processo de desenvolvimento.
 Este projeto foi criado dentro da cadeira de Projeto Integrador I. Da Universidade Federal do Ceará, no curso de Ciência da Computação.
 
 ### Autores
-Victor Manoel Pinheiro Coutinho
-Lailson Serafim de Souza
-Jeová Caçula de Aguiar Júnior
-João Vitor Souza Soares
+- Victor Manoel Pinheiro Coutinho
+- Lailson Serafim de Souza
+- João Vitor Souza Soares
+- - Jeová Caçula de Aguiar Júnior
 
 ### Ambiente
 - Node: v16.14.2
