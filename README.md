@@ -8,7 +8,7 @@ Este projeto foi criado dentro da cadeira de Projeto Integrador I. Da Universida
 - Victor Manoel Pinheiro Coutinho
 - Lailson Serafim de Souza
 - João Vitor Souza Soares
-- - Jeová Caçula de Aguiar Júnior
+- Jeová Caçula de Aguiar Júnior
 
 ### Ambiente
 - Node: v16.14.2
