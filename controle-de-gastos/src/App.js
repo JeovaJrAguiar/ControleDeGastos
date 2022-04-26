@@ -9,12 +9,12 @@ function App() {
               <h1>Controlhe de Gastos</h1>
             </p>
         </div>
-        <footer className='Footer'>
+        <footer className='Rodape'>
           <a
               className="App-link"
               href="https://github.com/JeovaJrAguiar/ControleDeGastos"
               target="_blank"
-              rel="noopener noreferrer"
+              //rel="noopener noreferrer"
             >
               GitHub
           </a>
