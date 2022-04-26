@@ -14,3 +14,4 @@ Este projeto foi criado dentro da cadeira de Projeto Integrador I. Da Universida
 - Node: v16.14.2
 - Npm: v8.5.0
 
+- Nota: Fique atento a versão tanto do node quanto do npm.
