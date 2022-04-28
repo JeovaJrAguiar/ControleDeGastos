@@ -20,6 +20,10 @@ $ node -v
 ```
 $ npm -v
 ```
+- Para iniciar a execução do projeto (execute o comando dentro da pasta do projeto):
+```
+$ npm start
+```
 
 #
 ### Autores
