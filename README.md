@@ -28,6 +28,6 @@ $ npm start
 #
 ### Autores
 - Victor Manoel Pinheiro Coutinho (victormpc2001@gmail.com)
-- Lailson Serafim de Souza ()
+- Lailson Serafim de Souza (lailsonsouza0@gmail.com)
 - João Vitor Souza Soares (jvsouza2727@hotmail.com)
 - Jeová Caçula de Aguiar Júnior (jeova.junior897@gmail.com)
