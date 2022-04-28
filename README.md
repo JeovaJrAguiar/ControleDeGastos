@@ -25,5 +25,5 @@ $ npm -v
 ### Autores
 - Victor Manoel Pinheiro Coutinho (victormpc2001@gmail.com)
 - Lailson Serafim de Souza ()
-- João Vitor Souza Soares ()
+- João Vitor Souza Soares (jvsouza2727@hotmail.com)
 - Jeová Caçula de Aguiar Júnior (jeova.junior897@gmail.com)
