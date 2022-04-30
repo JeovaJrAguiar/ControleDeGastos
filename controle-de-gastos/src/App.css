@@ -4,7 +4,7 @@
 }
 
 .Cabecalho{
-  background-color: #f0f2f5;
+  background-color: #0074B6;
   margin: 0% 0% auto 0%;
   color: aliceblue;
   text-align: center;
@@ -14,7 +14,8 @@
   background-color: #161b22;
   color: aliceblue;
   text-align: center;
-  margin: auto 0% 0% 0%;
+  margin: 0%;
+  padding: 300px 0px 300px  0px;
   padding: 1%;
 }
 
