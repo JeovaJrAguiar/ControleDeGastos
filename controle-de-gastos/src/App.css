@@ -1,22 +1,10 @@
-.Titulo {
-  margin-top: 3%;
-  margin-left: 5%;
-}
-
-.Cabecalho{
-  background-color: #0074B6;
-  margin: 0% 0% auto 0%;
-  color: aliceblue;
+.App {
   text-align: center;
 }
 
-.Rodape{
-  background-color: #161b22;
-  color: aliceblue;
-  text-align: center;
-  margin: 0%;
-  padding: 300px 0px 300px  0px;
-  padding: 1%;
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -26,12 +14,12 @@
 }
 
 .App-header {
-  background-color: #f0f2f5;
+  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: none;
-  justify-content: none;
+  align-items: center;
+  justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }
