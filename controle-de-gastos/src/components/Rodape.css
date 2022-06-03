@@ -1,0 +1,12 @@
+.Rodape {
+    background-color: #8625D2;
+    border: 100px solid #F0F2F5;
+    height: 280px;
+    width: 110%;
+    border-top: 50px;
+    position: relative;
+
+    top: -10px;
+    left: -10%;
+    right: -10%;
+}
